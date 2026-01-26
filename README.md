@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Hi! I'm Jang Minjun!
 
-<!--
-**nacho2407/nacho2407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a Computer Engineering student
 
-Here are some ideas to get you started:
+- Focused on low-level systems and performance-oriented programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interested in **game engine development** and **game design**(and a bit of electric guitar practice🎸)
+
+- Currently learning computer graphics with DirectX and OpenGL
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nacho2407&layout=compact&theme=tokyonight)
