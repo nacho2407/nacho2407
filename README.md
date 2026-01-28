@@ -1,4 +1,4 @@
-### 👋 Hi! I'm Jang Minjun!
+### 👋 Hi! I'm Minjun!
 
 - I'm a Computer Engineering student
 
