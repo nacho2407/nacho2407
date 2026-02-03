@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm Minjun!
 
-- I'm a Computer Engineering student
+- I'm a computer engineering student
 
 - Focused on low-level systems and performance-oriented programming
 
