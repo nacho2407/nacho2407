@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm Minjun!
 
-- Computer Engineering graduate aspiring game developer
+- Computer engineering graduate aspiring game developer
 
 - Focused on low-level systems and performance-oriented programming
 
